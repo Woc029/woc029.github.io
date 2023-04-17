@@ -151,7 +151,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.35);
+		border-bottom: dotted 1px #ffffff;
 		color: inherit;
 		text-decoration: none;
 	}
@@ -2463,22 +2463,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
@@ -2867,7 +2867,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: #ffffff;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3409,7 +3409,7 @@ input, select, textarea {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(255, 255, 255, 0.35);
+						color: #ffffff;
 						display: inline-block;
 						font-size: 0.6em;
 						font-weight: bold;
@@ -3737,7 +3737,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			color: #ffffff;
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
